@@ -3,7 +3,7 @@
 # Atividade 1
 ## Parte 1
 Servidor executando e escutando a porta 65432
-![[Screenshot From 2025-04-15 22-34-29.png]]
+![Screenshot From 2025-04-15 22-34-29.png](https://raw.githubusercontent.com/goerll/redes-tcp/refs/heads/main/Screenshot%20From%202025-04-15%2022-34-29.png)
 
 ## Parte 2
 Cliente conectando ao servidor e mandando algumas mensagens de teste
